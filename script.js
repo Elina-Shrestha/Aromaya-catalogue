@@ -46,7 +46,7 @@ const candles = [
     pricePure: 215,
     description: "A flower-inspired candle with a delicate shape that works beautifully for gifting and décor.",
     details: ["Handmade in Nepal", "Available in soy-paraffin blend or pure soy wax", "Choose your own colour & scent"],
-    images: ["image-ecom/peony1.PNG",image-ecom/peony.PNG]
+    images: ["image-ecom/peony1.PNG", "image-ecom/peony.PNG"]
   },
   {
     id: "rose",
