@@ -7,9 +7,9 @@ const CONFIG = {
   phoneDisplay: "+977 9810225214",
 
   // TODO: replace these with your real profile links
-  facebook:  "https://www.facebook.com/aromaya",
-  tiktok:    "https://www.tiktok.com/@aromaya",
-  instagram: "https://www.instagram.com/aromayaa"
+  facebook:  "https://www.facebook.com/share/1CKa8Yg5dT/",
+  tiktok:    "https://www.tiktok.com/@aromayaaa",
+  instagram: "https://www.instagram.com/aromayaaa"
 };
 
 /* =====================================================
